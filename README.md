@@ -67,6 +67,7 @@
 - 授業準備や、教材研究の資料集めの時。
 - プリント作成
 - 児童の授業中や家にての復習や予習に
+- あるケースにおける生徒指導の例題を議論する場
 
 ## 設計書
 - er図</br>
@@ -79,7 +80,9 @@
 (https://xd.adobe.com/view/00349dc6-d41a-4e5f-9514-410aed13b059-5567/)
 
 ## チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1bN6QswQ8-s14l1H8pz7uJeFGqH6R_KfCtHqi1L_Q2m8/edit?usp=sharing>
+- <https://docs.google.com/spreadsheets/d/1bN6QswQ8-s14l1H8pz7uJeFGqH6R_KfCtHqi1L_Q2m8/edit?usp=sharing>
+- AIを用いたコメント分析</br>
+トピックを元に議論ができる掲示板機能をつけるので、そのコメントが建設的か否か、ポジティブか否か、どのような単語、文脈が含まれているかなど、分析した結果を表示する機能をつけたい。
 
 ## 開発環境
 - OS：Mac(Big Sur)
