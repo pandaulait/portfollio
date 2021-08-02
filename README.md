@@ -81,10 +81,4 @@
 - JSライブラリ：jQuery
 - IDE：Cloud9
 
-## 使用素材
-- 学習指導要領</br>　
-(https://www.mext.go.jp/a_menu/shotou/new-cs/1384661.htm)
-- 教科用図書(学校図書,啓林館など増える可能性あり。)</br>　
-(https://gakuto.co.jp/kyokasyo/15s-sansu/)</br>　
-(https://www.shinko-keirin.co.jp/keirinkan/sho/text_2020/sansu/)
 
