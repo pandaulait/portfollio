@@ -79,7 +79,7 @@
 (https://xd.adobe.com/view/00349dc6-d41a-4e5f-9514-410aed13b059-5567/)
 
 ## チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1E4Quehglf9PxM1XTE-ft2X5-hJ5dmoJhsI-UJlgzVmY/edit#gid=0>
+<https://docs.google.com/spreadsheets/d/1bN6QswQ8-s14l1H8pz7uJeFGqH6R_KfCtHqi1L_Q2m8/edit?usp=sharing>
 
 ## 開発環境
 - OS：Mac(Big Sur)
